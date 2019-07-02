@@ -1,2 +1,0 @@
-/home/centuryliu/Yolo/darknet/Annotation/images/002/left_cc1101.JPEG
-/home/centuryliu/Yolo/darknet/Annotation/images/002/left_cc701.JPEG
